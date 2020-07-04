@@ -1,5 +1,8 @@
 # PM Booster
-PM Booster (Project Management Booster) is an agile project management application for software + web development.
+PM Booster (Project Management Booster) is an agile 
+project management application for web development agencies 
+as well as creative agencies and marketing agencies 
+with in-house web and mobile app development teams.
 
 It allows you to... 
 * manage projects easier and faster
