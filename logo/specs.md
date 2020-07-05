@@ -30,10 +30,5 @@ Note: The circle and the square in the sketch are just for reference. They are N
 
 ![logo sketch](./logo-sketch_20200703_214858.jpg)
 
----
-
-Text-based logo: 
-
-![PM Booster logo](./PM%20Booster%20logo%20(editable,%20Chaparral%20Pro%20font).gif)
 
 .
