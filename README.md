@@ -34,7 +34,7 @@ on the **product**, NOT on the project.
 Traditional project management (often associated with the waterfall method involving Gantt charts etc.) 
 is NOT the same thing as ***product management***. 
 
-Agile principles, agile teams and the **product** management approach are most suited for projects that involve ***digital products***. On the other hand, for projects that involve ***physical products***, the traditional, waterfall style **project** management is usually much better suited.  
+Agile principles, agile teams and the **product** management approach are most suited for projects that involve ***digital products***. On the other hand, for projects that involve ***physical products***, the traditional, waterfall style **project** management is usually much better suited. 
 There are very substantial differences between the two approaches 
 and mixing them is *not recommended* because it typically results in poor outcome.
 
