@@ -1,11 +1,9 @@
 # PM Booster
-PM Booster (Project Management Booster) is an agile 
-project management application for web development agencies 
-as well as creative agencies and marketing agencies 
-with in-house web and mobile app development teams.
+PM Booster is product/project* management application for agile  
+software, web development and mobile app development teams.
 
 It allows you to... 
-* manage projects easier and faster
+* manage products/projects* easier and faster
 * track and resolve bugs quickly
 * respond to security issue tickets with greater attention
 * prioritize, document and follow up on feature requests
@@ -30,5 +28,21 @@ It allows you to...
   for better architectures and designs
 * facilitate regular reflection, fine-tuning and adjustments  
   for growing effectiveness of your teams
+
+\* In agile development teams, the focus is 
+on the **product**, NOT on the project. 
+Traditional project management (often associated with the waterfall method involving Gantt charts etc.) 
+is NOT the same thing as ***product management***. 
+
+Agile principles, agile teams and the **product** management approach are most suited for projects that involve ***digital products***. On the other hand, for projects that involve ***physical products***, the traditional, waterfall style **project** management is usually much better suited.  
+There are very substantial differences between the two approaches 
+and mixing them is *not recommended* because it typically results in poor outcome.
+
+PM Booster as a tool is meant for managing the development of **digital products** i.e. for **product management**. The word *project* in the description above is merely used for individuals who aren't yet fully familiar with the differences between project management vs product management and might therefore miss *PM Booster* as a tool that's actually better suited for their management needs (managing the development of digital products).
+
+More about the differences between project and product management: 
+
+https://productschool.com/blog/product-management-2/why-product-management-is-not-project-management/
+
 
 .
